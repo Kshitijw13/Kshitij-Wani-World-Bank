@@ -16,7 +16,7 @@
         integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <title>About us - Sparks Bank</title>
+    <title>About us - Kshitij Bank</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
@@ -74,11 +74,11 @@
                 <h1 style=" color:white;">About Us</h1>
             </div>
             <br><br>
-            <img src="statics/rohit.jpeg" alt="" style="width:20%; box-shadow:2px 2px 15px black;">
+            <img src="statics/kshitij.jpeg" alt="" style="width:20%; box-shadow:2px 2px 15px black;">
             <br><br>
             <p style="color:white;">This website is created by</p>
-            <h1 style="color:white; text-shadow:2px 2px 2px gray;">Rohit Mahajan</h1>
-            <p style="color:gray;"><b>Intern at Sparks Foundation <br> Sinhgad Academy of Engineering, Pune</b></p>
+            <h1 style="color:white; text-shadow:2px 2px 2px gray;">Kshitij Arvind Wani</h1>
+            <p style="color:gray;"><b>Intern at Sparks Foundation <br> Pimpri Chinchwad College of Enghineering, Pune</b></p>
     </center>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
